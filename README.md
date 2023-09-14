@@ -29,4 +29,4 @@ Se destaca que en los 3 años de ventas se obtuvo una utilidad de $671M y un mar
 Donde lideran en consumo tecnológico América y Asia en 1er y 2do lugar correspondientemente y 3ro Europa muy por detras.
 Destacando que tan solo en América, Estados Unidos representa más de la mitad ($165M) de su utilidad ($262M). Dispositivos como PC y Celulares le aportaron una utilidad de $96M con un margen de tan solo 19% al contrario como de aplicaciones, tv, música que le aportaron un margen de 40% en una utilidad de $68M.
 
-[![Tablero](Github "Tablero")](https://raw.githubusercontent.com/alexissuarez024/appol/main/img/tablero.png?token=GHSAT0AAAAAACHJUSGP452R5FPC3FRYDYJ6ZIDISHA "Tablero")
+[![Tablero](Github "Tablero")](https://raw.githubusercontent.com/alexissuarez024/ETL_and_data_visualization_with_PowerBI/main/img/tablero.png "Tablero")
