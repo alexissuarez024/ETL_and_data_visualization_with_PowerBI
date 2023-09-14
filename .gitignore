@@ -1,0 +1,4 @@
+/.ipynb_checkpoints/*
+/appolVenv/*
+/__pycache__/*
+.env
